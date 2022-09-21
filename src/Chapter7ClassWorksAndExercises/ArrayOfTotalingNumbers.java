@@ -13,4 +13,4 @@ public class ArrayOfTotalingNumbers {
 }
 //In this code, we want to find out
 //The number of times, we could access an array with same data type
-//In an index of seven(7)
+//In an index of seven( 7)
