@@ -1,5 +1,4 @@
 package Chapter7ClassWorksAndExercises;
-
 public class ArrayOfTotalingNumbers {
     public static void main(String[] args) {
         int[] total = new int[7];

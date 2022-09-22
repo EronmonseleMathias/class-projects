@@ -7,10 +7,10 @@ import static org.junit.jupiter.api.Assertions.*;
 class ComparingDigitsTest {
     ComparingDigits comparingDigits;
 
-
     @BeforeEach
    void StartEveryTestWith() {
-         comparingDigits = new ComparingDigits();
+
+        comparingDigits = new ComparingDigits();
     }
     @Test
     void comparingDigits(){
